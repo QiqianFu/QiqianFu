@@ -4,4 +4,3 @@
 - 💻 I’m currently working on Computer Vision, VLM, RL for VLM
 - 📫 How to reach me: qiqianf2@illinois.edu
 - 🎮 I'm a big fan of Genshin Impact
-- 🏠 I'm currently living in Zhejiang
